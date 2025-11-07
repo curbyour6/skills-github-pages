@@ -1,0 +1,6 @@
+---
+title: "MY-OWN-BLOG"
+date: 2025-11-07
+---
+
+HERE IS THE FIRST BLOG POST FOR MY FIRST BLOG
